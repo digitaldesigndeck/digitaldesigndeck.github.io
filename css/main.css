@@ -75,10 +75,6 @@ h6,
 :focus {
   outline: none !important;
 }
-.hero p{
-    margin:0 auto;
-    margin-bottom: 40px;
-}
 /*-----------------------------------------------------------
   2. Typography 
 ------------------------------------------------------------*/
@@ -324,7 +320,8 @@ p {
   margin-top: 250px;
 }
 .hero p {
-  margin-bottom: 50px;
+    margin:0 auto;
+    margin-bottom: 40px;
 }
 /*-----------------------------------------------------------
   5. Services
